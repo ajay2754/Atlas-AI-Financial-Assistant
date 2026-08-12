@@ -1,0 +1,6 @@
+{
+  "name": "Atlas AI Financial Assistant",
+  "description": "An intelligent financial advisor and expense tracker built for the Open Atlas Hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
